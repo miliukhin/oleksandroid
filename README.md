@@ -3,3 +3,4 @@
 Settings I believe to be the best for various Android apps.
 
 * [Spamblocker](./configs/SpamBlocker.2026_10_27.gz)
+* [KISS Launcher](./configs/kiss_launcher)
